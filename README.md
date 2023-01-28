@@ -16,4 +16,4 @@ Embark on a thrilling journey through a medieval world teeming with new structur
 ✅ Backpacks and bundles                                                                                                                                                 
 ✅ [See more available mods here](https://github.com/RDiamonds/Kryptoz-World/wiki/Mods-list)                                                                             
                                                                                                                                                                          
-I really appreciate if you guys want to give me feedback about this modpack. I'm planning to make this modpack a lot better in the future, so if you have a grand idea, you can also [suggest things!](). Thank you!
+I really appreciate if you guys want to give me feedback about this modpack. I'm planning to make this modpack a lot better in the future, so if you have a grand idea, you can also [suggest things!](https://github.com/RDiamonds/Kryptoz-World/issues/new?assignees=&labels=suggestion&template=feature_request.yml). Thank you!
