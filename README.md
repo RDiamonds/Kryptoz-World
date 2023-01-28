@@ -11,7 +11,8 @@ Embark on a thrilling journey through a medieval world teeming with new structur
 ✅ Font support - pack comes with 5 extra fonts                                                                                                                           
 ✅ New combat mechanic and animation                                                                                                                                     
 ✅ Upgrade your stats like in RPG games                                                                                                                                   
-✅ Minimap and World map                                                                                                                                                 
+✅ Mini map and World map                                                                                                                                                 
+✅ More villagers type                                                                                                                                                   
 ✅ 3D skin                                                                                                                                                               
 ✅ Backpacks and bundles                                                                                                                                                 
 ✅ [See more available mods here](https://github.com/RDiamonds/Kryptoz-World/wiki/Mods-list)                                                                             
